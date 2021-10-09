@@ -1,0 +1,30 @@
+.menu-verticale {
+    /* Creazione del box contenente il menù verticale */
+    width: 150px;
+    height: 100%;
+    z-index: 1000;
+    position: fixed;
+}
+.menu-verticale a {
+    /* Definizione dello stile da applicare al menù verticale */
+    background-color: #262421;
+    color: bisque; 
+    display: block; 
+    padding: 12px; 
+    text-decoration: none;
+    font-size: 90%;
+}
+.menu-verticale a:hover {
+    /* Definizione dello stile da applicare al menù verticale */
+    /* Quando si passa il cursore sopra */
+    background-color: #211F1D;
+    color: white;
+    font-size: 90%;
+}
+.menu-verticale a.active {
+    /* Definizione dello stile da applicare al menù verticale */
+    /* Quando è attivo */
+    background-color: #7FA650;
+    color: white;
+    font-size: 90%;
+}
