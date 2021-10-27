@@ -4,27 +4,39 @@
     height: 100%;
     z-index: 1000;
     position: fixed;
-}
-.menu-verticale a {
-    /* Definizione dello stile da applicare al menù verticale */
     background-color: #262421;
-    color: bisque; 
     display: block; 
-    padding: 12px; 
-    text-decoration: none;
-    font-size: 90%;
+    padding: 12px;
 }
 .menu-verticale a:hover {
-    /* Definizione dello stile da applicare al menù verticale */
+    /* Definizione dello stile da applicare ai bottoni */
     /* Quando si passa il cursore sopra */
+    width: 90px;
+    height: 35px;
+    z-index: 1000;
+    position: fixed;
     background-color: #211F1D;
     color: white;
-    font-size: 90%;
+    text-align: center;
+    border-radius: 10%;
 }
 .menu-verticale a.active {
-    /* Definizione dello stile da applicare al menù verticale */
-    /* Quando è attivo */
+    /* Definizione dello stile da applicare ai bottoni */
+    /* Quando sono attivi */
+    width: 90px;
+    height: 35px;
+    z-index: 1000;
+    position: fixed;
     background-color: #7FA650;
     color: white;
-    font-size: 90%;
+    text-align: center;
+    border-radius: 10%;
+}
+.menu-verticale-base {
+    width: 90px;
+    height: 35px;
+    z-index: 1000;
+    position: fixed;
+    color: bisque;
+    text-align: center;
 }
