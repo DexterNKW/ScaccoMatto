@@ -1,4 +1,4 @@
-.menu-verticale {
+div.menu-verticale {
     /* Creazione del box contenente il menù verticale */
     width: 150px;
     height: 100%;
@@ -6,7 +6,10 @@
     position: fixed;
     background-color: #262421;
     display: block; 
-    padding: 12px;
+    padding-left: 30px;
+    padding-top: 15px;
+    position: fixed;
+    top: 0px;
 }
 .menu-verticale a:hover {
     /* Definizione dello stile da applicare ai bottoni */
@@ -18,7 +21,11 @@
     background-color: #211F1D;
     color: white;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 10%; 
+    padding: 8px;
+    border-bottom-style: solid;
+    border-bottom-color:#1b1717;
+    border-bottom-width: 5px;
 }
 .menu-verticale a.active {
     /* Definizione dello stile da applicare ai bottoni */
@@ -30,7 +37,11 @@
     background-color: #7FA650;
     color: white;
     text-align: center;
-    border-radius: 10%;
+    border-radius: 10%; 
+    padding: 8px;
+    border-bottom-style: solid;
+    border-bottom-color:#303f1e;
+    border-bottom-width: 5px;
 }
 .menu-verticale-base {
     width: 90px;
@@ -38,5 +49,6 @@
     z-index: 1000;
     position: fixed;
     color: bisque;
-    text-align: center;
+    text-align: center; 
+    padding: 8px;
 }
