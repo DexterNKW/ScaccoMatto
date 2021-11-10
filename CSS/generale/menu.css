@@ -21,7 +21,7 @@ div.menu-verticale {
     background-color: #211F1D;
     color: white;
     text-align: center;
-    border-radius: 10%; 
+    border-radius: 5%; 
     padding: 8px;
     border-bottom-style: solid;
     border-bottom-color:#1b1717;
@@ -37,7 +37,7 @@ div.menu-verticale {
     background-color: #7FA650;
     color: white;
     text-align: center;
-    border-radius: 10%; 
+    border-radius: 5%; 
     padding: 8px;
     border-bottom-style: solid;
     border-bottom-color:#303f1e;

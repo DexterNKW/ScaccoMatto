@@ -1,0 +1,28 @@
+.footer-index {
+     width: 800px;
+     position: relative;
+     height: 40px;
+     top: 1000px;
+     left: 450px;
+     text-align: center;
+     font-size: 18px;
+     color: #7FA650;
+}
+.footer-storia {
+     width: 800px;
+     position: relative;
+     height: 40px;
+     top: 2120px;
+     left: 450px;
+     text-align: center;
+     font-size: 18px;
+     color: #7FA650;
+}
+a.f {
+     font-size: 18px;
+     color: #7FA650; 
+}
+span.f {
+     color: bisque;
+     font-weight: bold; 
+}
