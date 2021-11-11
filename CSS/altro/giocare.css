@@ -1,0 +1,51 @@
+div.paragrafo-1 {
+     background-color: #272522;
+     width: 550px;
+     height: auto;
+     z-index: 1000;
+     position: absolute;
+     top: 190px;
+     left: 900px;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     text-align: left;
+     border-radius: 3%; 
+     border-bottom-style: solid;
+     border-bottom-color:#1b1717;
+     border-bottom-width: 3px;
+}
+.titolo-sitochess {
+     position: relative;
+     left: 60px;
+     top: 0;
+}
+.logo-sitochess {
+     width: 45px;
+     height: 59px;
+     position: absolute;
+     top: 40px;
+}
+div.banner {
+     background-color: #272522;
+     width: 550px;
+     height: auto;
+     position: relative;
+     top: 520px;
+     left: 900px;
+     padding-left: 50px;
+     padding-right: 50px;
+     padding-top: 30px;
+     padding-bottom: 30px;
+     text-align: center;
+     border-radius: 3%;
+     border-bottom-style: solid;
+     border-bottom-color:#1b1717;
+     border-bottom-width: 3px;
+}
+img.banner {
+     width: 550px;
+     height: auto;
+     border-radius: 3%; 
+}

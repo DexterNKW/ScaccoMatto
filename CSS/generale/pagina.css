@@ -29,11 +29,10 @@ div.paragrafo {
      padding-top: 10px;
      padding-bottom: 10px;
      text-align: center;
-     border-radius: 0.4%; 
+     border-radius: 1%; 
      border-bottom-style: solid;
      border-bottom-color:#1b1717;
-     border-bottom-width: 1px;
-
+     border-bottom-width: 3px;
 }
 div.gif {
      width: 740px;
@@ -44,6 +43,9 @@ div.gif {
      padding-top: 10px;
      padding-bottom: 10px;
      text-align: center;
+}
+img.gif {
+     border-radius: 3%; 
 }
 h1.titolo-paragrafo {
      font-size: 30px;
