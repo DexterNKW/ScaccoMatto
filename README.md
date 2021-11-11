@@ -1,5 +1,5 @@
 # ScaccoMatto
-[ScaccoMatto](https://dexternkw.github.io/ScaccoMatto./docs/index.html) è un progetto scolastico nato come lavoro in html
+[ScaccoMatto](https://dexternkw.github.io/ScaccoMatto/docs/index.html) è un progetto scolastico nato come lavoro in html
 
 Presenta del CSS per la semplificazione di molto lavoro
 
