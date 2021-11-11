@@ -1,0 +1,49 @@
+div.licenza {
+     text-align: left;
+     width: 1000px;
+     height: 770px;
+}
+.titolo {
+     padding-top: 0;
+     padding-bottom: 0;
+     margin: 0;
+}
+li {
+     list-style-type: none;
+     width: 500px;
+}
+ul.l1 {
+     position: absolute;
+     left: 0;
+}
+ul.l2 {
+     position: absolute;
+     left: 300px;
+}
+ul.l3 {
+     position: absolute;
+     left: 600px;
+}
+li.tl {
+     list-style-type: none;
+     font-weight: bold;
+     color: bisque;
+}
+li.pl {
+     color: rgba(255, 228, 196, 0.479);
+     position: relative;
+     left: 22px;
+}
+li.y {
+     list-style-image: url(../../MEDIA/altro/licenza/yes.png);
+}
+li.n {
+     list-style-image: url(../../MEDIA/altro/licenza/no.png);
+}
+li.info {
+     list-style-image: url(../../MEDIA/altro/licenza/info.png);
+}
+.fl {
+     position: relative;
+     top: 270px;
+}

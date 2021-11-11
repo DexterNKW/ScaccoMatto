@@ -1,5 +1,5 @@
 div.pagina {
-     width: 1500px;
+     width: 1400px;
      height: 100%;
      position: relative;
      top: 0px;
@@ -41,9 +41,9 @@ div.gif {
      position: absolute;
      top: 180px;
      padding-left: 50px;
-     text-align: center;
-     padding-top: 20px;
+     padding-top: 10px;
      padding-bottom: 10px;
+     text-align: center;
 }
 h1.titolo-paragrafo {
      font-size: 30px;
