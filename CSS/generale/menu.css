@@ -1,6 +1,6 @@
 div.menu-verticale {
     /* Creazione del box contenente il menù verticale */
-    width: 150px;
+    width: 140px;
     height: 100%;
     z-index: 1000;
     position: fixed;

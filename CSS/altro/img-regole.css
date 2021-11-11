@@ -1,0 +1,22 @@
+.img-paragrafo {
+     width: 400px;
+     height: auto;
+     top: 10px;
+     padding-left: 0px;
+}
+div.paragrafo-regole {
+     background-color: #272522;
+     width: 1000px;
+     height: auto;
+     z-index: 1000;
+     position: absolute;
+     top: 180px;
+     left: 300px;
+     padding: 20px;
+     text-align: center;
+     border: 3px;
+     border-radius: 0.4%; 
+     border-bottom-style: solid;
+     border-bottom-color:#1b1717;
+     border-bottom-width: 3px;
+}

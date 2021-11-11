@@ -24,10 +24,7 @@ div.paragrafo {
      position: absolute;
      top: 180px;
      left: 60px;
-     padding-left: 50px;
-     padding-right: 50px;
-     padding-top: 10px;
-     padding-bottom: 10px;
+     padding: 20px;
      text-align: center;
      border-radius: 1%; 
      border-bottom-style: solid;
@@ -57,6 +54,12 @@ img.logo-1 {
      position: absolute;
      top: 40px;
      left: 315px;
+}
+img.logo-2 {
+     width: 80px;
+     height: 80px;
+     position: relative;
+     left: 20px;
 }
 a.fonte {
      color: #7FA650;
