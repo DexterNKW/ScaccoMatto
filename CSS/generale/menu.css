@@ -2,7 +2,7 @@ div.menu-verticale {
     /* Creazione del box contenente il menù verticale */
     width: 140px;
     height: 100%;
-    z-index: 1000;
+    z-index: 2000;
     position: fixed;
     background-color: #262421;
     display: block; 
@@ -16,7 +16,6 @@ div.menu-verticale {
     /* Quando si passa il cursore sopra */
     width: 90px;
     height: 35px;
-    z-index: 1000;
     position: fixed;
     background-color: #211F1D;
     color: white;
@@ -32,7 +31,6 @@ div.menu-verticale {
     /* Quando sono attivi */
     width: 90px;
     height: 35px;
-    z-index: 1000;
     position: fixed;
     background-color: #7FA650;
     color: white;
@@ -46,7 +44,6 @@ div.menu-verticale {
 .menu-verticale-base {
     width: 90px;
     height: 35px;
-    z-index: 1000;
     position: fixed;
     color: bisque;
     text-align: center; 
